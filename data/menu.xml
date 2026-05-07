@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE menu SYSTEM "menu.dtd">
+
+<menu>
+
+  <!-- Meals -->
+
+  <item>
+    <category>Meals</category>
+    <name>Beetroot and feta salad</name>
+    <price>15.00</price>
+    <description>Suitable for vegetarians, made with fresh beetroot.</description>
+    <image>beetroot-salad.jpg</image>
+  </item>
+
+  <item>
+    <category>Meals</category>
+    <name>Sourdough Rye Sandwich</name>
+    <price>18.00</price>
+    <description>Cheese and salad sandwich made with organic sourdough rye bread.</description>
+    <image>sourdough-sandwich.jpg</image>
+  </item>
+
+  <item>
+    <category>Meals</category>
+    <name>Spinach Pie and Salad</name>
+    <price>20.00</price>
+    <description>Tasty pie served with a fresh garden salad.</description>
+    <image>spinach-pie.jpg</image>
+  </item>
+
+  <item>
+    <category>Meals</category>
+    <name>Feta pancakes with salad</name>
+    <price>19.50</price>
+    <description>Tasty pancake filled with feta and served with salad.</description>
+    <image>feta-pancakes.jpg</image>
+  </item>
+
+  <!-- Coffee and hot chocolates -->
+
+  <item>
+    <category>Coffee and hot chocolates</category>
+    <name>Small coffee</name>
+    <price>3.50</price>
+    <description>For coffee, please inform the staff of the coffee type.</description>
+    <image>coffee.jpg</image>
+  </item>
+
+  <item>
+    <category>Coffee and hot chocolates</category>
+    <name>Regular coffee</name>
+    <price>4.00</price>
+    <description>Freshly prepared coffee served regular size.</description>
+    <image>coffee.jpg</image>
+  </item>
+
+  <item>
+    <category>Coffee and hot chocolates</category>
+    <name>Large coffee</name>
+    <price>4.50</price>
+    <description>Large hot coffee or hot chocolate prepared to order.</description>
+    <image>coffee.jpg</image>
+  </item>
+
+  <!-- Other beverages -->
+
+  <item>
+    <category>Other beverages</category>
+    <name>Soda</name>
+    <price>3.00</price>
+    <description>Chilled soft drink.</description>
+    <image>soda.jpg</image>
+  </item>
+
+  <item>
+    <category>Other beverages</category>
+    <name>Fresh juice</name>
+    <price>6.00</price>
+    <description>Freshly squeezed seasonal juice.</description>
+    <image>fresh-juice.jpg</image>
+  </item>
+
+  <item>
+    <category>Other beverages</category>
+    <name>Bottled water</name>
+    <price>2.00</price>
+    <description>Refreshing bottled water.</description>
+    <image>bottled-water.jpg</image>
+  </item>
+
+</menu>
